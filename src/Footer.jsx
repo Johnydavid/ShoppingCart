@@ -11,7 +11,7 @@ export default function Footer() {
         <span className=" fa-sm mx-2">
           <FontAwesomeIcon icon={faCopyright} />
         </span>{" "}
-        Your Website 2022
+        Your Website 2022        
       </div>
     </>
   );
